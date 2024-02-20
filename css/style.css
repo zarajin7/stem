@@ -25,13 +25,39 @@
 }
 
 .hero__content {
-  background-color: aqua;
-  min-width: 600px;
+  background-color: white;
+  min-width: 400px;
   text-align: center;
 }
 .hero__content__header {
   height: 500px;
   background: url("/images/donate.jpg") no-repeat center center/cover;
+}
+.hero__content__header .white {
+  color: white;
+}
+.hero__content .card {
+  height: 600px;
+  width: 400px;
+  background-color: palevioletred;
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 10%;
+  border-radius: 20px;
+}
+.hero__content .card__body button {
+  background-color: plum;
+  border: none;
+  margin: 30px;
+  padding: 10px;
+  border-radius: 20px;
+  height: 200%;
+}
+.hero__content .card__body .wrapper input {
+  background-color: purple;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 1rem 1rem;
 }
 
 * {

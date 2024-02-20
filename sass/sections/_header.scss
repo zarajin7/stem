@@ -1,9 +1,66 @@
 @use "../utilites/mixins";
 @use "../utilites/variables";
-.home__page{
-    background-image: url(../images/stem.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
+.hero{
+    background-color:#48bfe3;
+    height: 100vh;
+    .btn{
+        padding: 1em 5em;
+        border-radius: 50px;
+        border: none;
+        background-color:#e05780;
+        margin-top: 2rem;
+        display: flex; 
+    }
+    .circles{
+        border-radius: 50%;
+        height: 50px;
+        border:black;
+        background-color: #e05780;
+width: 50px;
+padding: 5rem;
+text-align: center;
+display: flex;
+margin-top: 2rem;
+justify-content: center;
 
+
+    }
+    .round__circles{
+        display: flex;
+        gap:3em
+    }
+    .blue{
+        background-color:#2d227d ;
+    
+    }
+    .orange{
+        background-color: #e85d04;
+}
+.yellow{
+    background-color: yellow;
+}
+}
+
+.technology{
+   display: 1; 
+
+   }
+.science{
+    display: flex;
+    justify-content: space-between;
+    box-shadow:inset;
+    border: darkgray;
+    border-color: darkgray;
+    margin-top: 2rem;
+    height: 80%;
+    
+    
+}
+.paragraph{
+    color:darkgray;
+    margin-top: 2rem;
+}
+.text{
+    align-items: center center;
     
 }

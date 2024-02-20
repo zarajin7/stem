@@ -5,45 +5,36 @@
 }
 
 .hero {
-  background-color: #48bfe3;
+  background-image: url("../../images/Screenshot from 2024-02-20 08-55-19.png");
   height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 3;
+  color: white;
 }
 .hero .btn {
   padding: 1em 5em;
   border-radius: 50px;
   border: none;
   background-color: #e05780;
-  margin-top: 2rem;
-  display: flex;
+  margin-top: 3rem;
 }
-.hero .circles {
-  border-radius: 50%;
-  height: 50px;
-  border: black;
-  background-color: #e05780;
-  width: 50px;
-  padding: 5rem;
-  text-align: center;
-  display: flex;
-  margin-top: 2rem;
-  justify-content: center;
-}
-.hero .round__circles {
-  display: flex;
-  gap: 3em;
-}
-.hero .blue {
+
+.blue {
   background-color: #2d227d;
 }
-.hero .orange {
+
+.orange {
   background-color: #e85d04;
 }
-.hero .yellow {
+
+.yellow {
   background-color: yellow;
 }
 
-.technology {
-  display: 1;
+.pink {
+  background-color: #e05780;
 }
 
 .science {
@@ -63,4 +54,21 @@
 
 .text {
   align-items: center center;
+}
+
+.circles {
+  border-radius: 50%;
+  height: 50px;
+  border: none;
+  padding: 5em;
+  width: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.round__circles {
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }

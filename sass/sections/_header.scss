@@ -1,13 +1,14 @@
-@use "../utilites/mixins";
-@use "../utilites/variables";
+@use "../utilites/mixins" as *;
+@use "../utilites/variables" as *;
 .hero{
-    background-image:url("../../images/Screenshot from 2024-02-20 08-55-19.png");
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap:3;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/Screenshot from 2024-02-20 08-55-19.png") ;
+    
+    
+    height: 80vh;
+     @include flex(center,center,column);
+    
     color: white;
+    
 }
 
 
@@ -15,23 +16,24 @@
         padding: 2em 5rem;
         border-radius: 50px;
         border: none;
-        margin-top: 3rem;  
+        text-align: center;
+          
     }
     
     
 
     .blue{
-        background-color:#2d227d ;
+        background-color:$blue;
     
     }
     .orange{
-        background-color: #e85d04;
+        background-color:$orange
 }
 .yellow{
-    background-color: yellow;
+    background-color:$yellow;
 }
-.pink{
-    background-color: #e05780;
+.pink {
+    background-color:$pink;
 }
 
 
@@ -50,21 +52,22 @@
 }
 .paragraph{
     color:darkgray;
-    background-color: white;
     padding: 3rem;
     font-size: 20px;
     font-weight: bold;
+    height: 50%;
+width: 30%;
+
 }
 .hero h1{
-    font-size:60px;
+    font-size:4rem;
     font-weight: bolder;
-    margin-top:4em ;
-    text-decoration: underline black;
+
     
     
 }
 .stem{
-    color: red;
+    color:red;
 }
 .circles{
     border-radius: 50%;
@@ -73,15 +76,15 @@
     padding: 5em;
     width: 50px;
     text-align: center;
-    display: flex;
-    justify-content: center;
+@include flex(center,center)
 
 }
 
 .round__circles{
-    display: flex;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+@include flex(center,center);
+gap:3rem;
+margin-top: 2rem;
+margin-bottom: 2rem;
 }
 
 .tech{
@@ -95,24 +98,53 @@ padding: 2em;
 }
 .text{
     text-align: center;
-    font-size: 40px;
-    font-weight: 60px;
+    font-size: 3rem;
+    font-weight:2rem ;
 }
 .tech:nth-child(2){
-    margin: 2em;
+    margin-left: 1em;
+    margin-right:1em;
     
 }
-.steam__content{
-    display: flex;
-    background-color: aqua;
-    justify-content: center;
-    flex-direction: row;
-    height: 50vh;
-
-
+ .hero__steam{
+    background-color: $aqua-blue;
+    @include flex(center,center,column);
+    padding-top: 2em;
+    
+    }
+ .hero__content{
+@include flex(center,center);
+margin-top: 2em;
 }
 
-
+.hero__content ul{
+    @include flex(center,center,column);
+    text-align:center;
+    padding-top: 2em;
+}
+.about__us{
+    @include flex(center,center);
+    gap: 3em;
+    padding: 3em;
+    margin-top:2em;
+}
+.about__paragraph{
+    flex:1;
+    width: 50%;
+}
+.about__img{
+    flex:1;
+    width: 50%;
     
 }
-    
+.about__us h3{
+    margin-top: 1em;
+    font-size: 2rem;
+    font-weight: 2rem;
+}
+
+.about__us h2{
+color:$blue;
+font-weight: 3em;
+font-size:3em;
+}

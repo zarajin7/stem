@@ -8,20 +8,18 @@
     flex-direction: column;
     gap:3;
     color: white;
+}
 
 
     .btn{
-        padding: 1em 5em;
+        padding: 2em 5rem;
         border-radius: 50px;
         border: none;
-        background-color:#e05780;
-        margin-top: 3rem;
+        margin-top: 3rem;  
+    }
+    
+    
 
-        
-    }
-    
-    
-    }
     .blue{
         background-color:#2d227d ;
     
@@ -104,8 +102,17 @@ padding: 2em;
     margin: 2em;
     
 }
-.sream__content{
+.steam__content{
     display: flex;
+    background-color: aqua;
+    justify-content: center;
+    flex-direction: row;
+    height: 50vh;
+
+
+}
+
 
     
 }
+    

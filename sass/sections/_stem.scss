@@ -1,0 +1,42 @@
+@use "../utilites/mixins" as *;
+@use "../utilites/variables" as *;
+
+.nav__container {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navigation ul {
+  display: flex;
+  gap: 3em;
+}
+.navigation ul li {
+  list-style-type: none;
+}
+.navigation ul li:hover {
+  background-color: rgb(233, 57, 86);
+  color: aliceblue;
+}
+.navigation ul li a {
+  text-decoration: none;
+  color: black;
+}
+// .hero{
+//     height: 100vh;
+//     @include flex(center,center)
+
+// }
+.hero__content {
+  background-color: aqua;
+  min-width: 600px;
+  text-align: center;
+
+
+  &__header {
+    height: 500px;
+    background: url("/images/donate.jpg") no-repeat center center/cover;
+
+
+  }
+}

@@ -1,10 +1,10 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
 .sumulation__content{
-  background-image: url(../images/pexels-photo-6281049.jpeg);
+  background-image: url("../images/pexels-photo-6281049.jpeg");
   height: 60vh;
 }
-.simulation__phyc{
+.simulation__subject{
   @include flex(center,center);
   gap:3em;
 padding-bottom: 2em;
@@ -18,8 +18,5 @@ padding-bottom: 2em;
     color:$orange ;
     margin-bottom: 1em;
   }
-  .sumulation__chemestry{
-    @include flex(center,center);
-    gap: 3em;
-    padding-bottom: 2em;
-  }
+  
+  

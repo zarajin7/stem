@@ -171,11 +171,11 @@
 }
 
 .sumulation__content {
-  background-image: url(../images/pexels-photo-6281049.jpeg);
+  background-image: url("../images/pexels-photo-6281049.jpeg");
   height: 60vh;
 }
 
-.simulation__phyc {
+.simulation__subject {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -193,13 +193,4 @@
 .simulation__content__profile h2 {
   color: #e85d04;
   margin-bottom: 1em;
-}
-
-.sumulation__chemestry {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  gap: 3em;
-  padding-bottom: 2em;
 }

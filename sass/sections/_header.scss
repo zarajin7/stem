@@ -1,12 +1,13 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
 .hero{
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/Screenshot from 2024-02-20 08-55-19.png") ;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/home.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     
     height: 80vh;
      @include flex(center,center,column);
+     text-align: center;
     
     color: white;
     
@@ -30,11 +31,11 @@
     .orange{
         background-color:$orange
 }
-.yellow{
-    background-color:$yellow;
+.cyan{
+    background-color:$dark-cyan
 }
-.pink {
-    background-color:$pink;
+.aqua {
+    background-color:$aqua-blue;
 }
 
 
@@ -53,12 +54,14 @@
 }
 .paragraph{
     color:darkgray;
-    padding: 2rem;
+    padding-bottom:1rem;
     font-size: 20px;
     font-weight: bold;
     height: 50%;
 width: 30%;
 margin: 0 auto;
+margin-top: 2rem;
+@include flex(center,center);
 
 }
 .hero h1{
@@ -69,7 +72,7 @@ margin: 0 auto;
     
 }
 .stem{
-    color:red;
+    color:$dark-cyan;
 }
 .circles{
     border-radius: 50%;
@@ -108,27 +111,43 @@ padding: 2em;
     margin-right:1em;
     
 }
- .hero__steam{
+ .main__steam{
     background-color: $aqua-blue;
     @include flex(center,center,column);
-    padding-top: 2em;
     
     }
- .hero__content{
-@include flex(center,center);
-margin-top: 2em;
-}
+    .main__button{
+        padding: 2em 3em;
+        border: solid black;
+        background-color: transparent;
+        color:#fff;
+        border-radius: 10px;
+        @include flex(center,center);
+    
 
-.hero__content ul{
-    @include flex(center,center,column);
-    text-align:center;
-    padding-top: 2em;
-}
+    }
+    .main__content{
+        @include flex(center,flex-start);
+        gap:4rem;
+        margin-top: 2em;
+        padding-bottom: 1em;
+        
+    }
+    .content__mechanical{
+        @include flex(center,center,column);
+    
+    }
+    .content__mechanical ul{
+        @include flex(center,flex-start,column);
+        margin-top:1.5em;
+    }
+ 
+
 .about__us{
     @include flex(center,center);
     gap: 3em;
     padding: 3em;
-    margin-top:2em;
+    padding-top:2em;
 }
 .about__paragraph{
     flex:1;

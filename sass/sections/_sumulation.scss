@@ -1,9 +1,19 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
-.sumulation__content{
-  background-image: url("../images/pexels-photo-6281049.jpeg");
+.simulation__content{
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/back.png");
   height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  @include flex(center,center,column );
+  text-align: center;
+  color:$aqua-blue;
+  font-size: 2em;
+  font-weight:1.5em;
+
 }
+
+
 .simulation__subject{
   @include flex(center,center);
   gap:3em;

@@ -2,7 +2,8 @@
 @use "../utilites/variables" as *;
 .hero{
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/Screenshot from 2024-02-20 08-55-19.png") ;
-    
+    background-repeat: no-repeat;
+    background-size: cover;
     
     height: 80vh;
      @include flex(center,center,column);
@@ -52,11 +53,12 @@
 }
 .paragraph{
     color:darkgray;
-    padding: 3rem;
+    padding: 2rem;
     font-size: 20px;
     font-weight: bold;
     height: 50%;
 width: 30%;
+margin: 0 auto;
 
 }
 .hero h1{

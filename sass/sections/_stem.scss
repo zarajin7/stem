@@ -15,7 +15,7 @@
   list-style-type: none;
 }
 .navigation ul li:hover {
-  background-color: rgb(233, 57, 86);
+  background-color: #9EF8EE;
   padding: 1rem;
   color: aliceblue;
   cursor: pointer;
@@ -33,7 +33,7 @@
   text-align: center;
 
   &__header {
-    height: 500px;
+    height: 700px;
     background: url("/images/donate.jpg") no-repeat center center/cover;
 
 
@@ -42,15 +42,25 @@
       font-size: 200%;
     }
     .margin__top{
-      padding-top: 10%;
+      padding-top: 7%;
     }
   }
 }
 
+.card{
+  background-color: #fff;
+  height: 430px;
+  width: 50%;
+  margin-left: 30%;
+  margin-right: 10%;
+  border-radius: 30px;
+}
+
+
 // Buttons
 
 .button--pen {
-  --main_color: #4d4d4d;
+  --main_color: #5369cc;
   --sub_color1: #fff;
   --sub_color2: hsl(49, 93%, 48%);
   --base_color: #000000;
@@ -67,12 +77,12 @@
   height: 80px;
   box-sizing: border-box;
   text-decoration: none;
-  border: solid 3px #000;
+  border: solid 3px #181817;
   border-radius: 40px;
   background: var(--main_color);
   font-family: "Fredoka One", cursive;
-  margin-left: 40%;
-  margin-top: 7%;
+  margin-left: 25%;
+  margin-top: 40%;
 
 }
 .button::before {

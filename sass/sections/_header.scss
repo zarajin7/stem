@@ -7,4 +7,31 @@
 
     
 }
+.nav__container {
+    background-color:#1A4173;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .navigation ul {
+    display: flex;
+    gap: 3em;
+  }
+  .navigation ul li {
+    list-style-type: none;
+  }
+  .navigation ul li:hover {
+    background-color: rgb(233, 57, 86);
+    padding: 1rem;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  .navigation ul li a {
+    text-decoration: none;
+    color: black;
+  }
 
+.hero__content{
+    background-color:#9EF8EE;
+}

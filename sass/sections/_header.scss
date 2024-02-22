@@ -168,33 +168,40 @@ padding: 2em;
     color: black;
   }
 
-.nav__mobile {
-    display: none;
+.hero__content{
+    background-color:#9EF8EE;
+}
+
+// list
+
+.main-container{
+    display: flex;
+  text-align: center;
   }
-
-
-
-@media screen and (max-width: 840px) {
-    
-    .nav__mobile {
-      display:none;
+  
+  .main-content__left h3 {
+    font-size: 1rem;
+    padding-top: 6rem;
+  }
+  .main-content__left h1 {
+    font-size: 2rem;
+    padding-top: 4rem 0;
+  }
+  .main-content__list{
+  border-bottom: 3px solid black;
+  }
+  .main-content__list ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 1rem;
     }
-    .navigation ul{
-        display: none;
-    }
-    .navigation ul li:not(:last-child){
-        display: block;
+    .main-content__list ul li{
+   padding-bottom: -1rem;
       }
-  
-.circles{
-    @include flex(center,center,row,wrap);
-}
-.hero__introduction p{
-    width: 100%;
-
-}
-.science{
-    @include flex(center,center,column,wrap)
-}
-  }
-  
+      .main-content__list ul li:hover{
+        color:#F24405;
+        cursor:pointer;
+        border-bottom: 3px solid #FA7F08;
+        padding-bottom: 0.5em;
+      }

@@ -15,7 +15,7 @@
 }
 
 .navigation ul li:hover {
-  background-color: #9EF8EE;
+  background-color: #9ef8ee;
   padding: 1rem;
   color: aliceblue;
   cursor: pointer;
@@ -30,33 +30,59 @@
 .hero__content {
   background-color: white;
   min-width: 400px;
-  text-align: center;
 }
 .hero__content__header {
-  height: 700px;
   background: url("/images/donate.jpg") no-repeat center center/cover;
+  padding: 4em 0;
 }
 .hero__content__header .white {
   color: white;
-  font-size: 200%;
 }
 .hero__content__header .margin__top {
-  padding-top: 7%;
+  margin-bottom: 1em;
+  text-align: center;
 }
-
-.card {
+.hero__content__header .margin__top h1 {
+  font-size: 3rem;
+}
+.donation__form {
   background-color: #fff;
-  height: 430px;
+  padding: 1em;
+  /* height: 430px; */
   width: 50%;
-  margin-left: 30%;
-  margin-right: 10%;
+  margin: 0 auto;
   border-radius: 30px;
+}
+.donation__form form {
+  padding: 1em;
+  gap: 1em;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.donation__form form div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  width: 100%;
+}
+.donation__form form div input {
+  width: 100%;
+  outline: none;
+  padding: 1.5em 1em;
+  border: none;
+  box-shadow: 0 0 5px lightgray;
 }
 
 .button--pen {
   --main_color: #5369cc;
   --sub_color1: #fff;
-  --sub_color2: hsl(49, 93%, 48%);
+  --sub_color2: rgb(237, 196, 10);
   --base_color: #000000;
   --border_radius1: 60px 60px 40px 40px / 48px 48px 30px 30px;
   --border_radius2: 70px 70px 40px 40px / 48px 48px 30px 30px;
@@ -68,7 +94,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 280px;
   height: 80px;
   box-sizing: border-box;
   text-decoration: none;
@@ -76,8 +101,7 @@
   border-radius: 40px;
   background: var(--main_color);
   font-family: "Fredoka One", cursive;
-  margin-left: 25%;
-  margin-top: 40%;
+  margin-top: 3em;
 }
 
 .button::before {
@@ -472,6 +496,18 @@
     height: 28px;
   }
 }
+@media screen and (max-width: 600px) {
+  .nav__container {
+    background-color: #9ef8ee;
+  }
+  .nav__container--right {
+    display: none;
+  }
+  .nav__container {
+    display: none;
+    z-index: 1;
+  }
+}
 * {
   margin: 0;
   box-sizing: border-box;
@@ -540,7 +576,7 @@
   display: flex;
   justify-content: space-evenly;
   list-style-type: none;
-  font-size: 1rem;
+  font-size: 3rem;
 }
 
 .main-content__list ul li {
@@ -548,7 +584,6 @@
 }
 
 .main-content__list ul li:hover {
-  color: #F24405;
   cursor: pointer;
   border-bottom: 3px solid #FA7F08;
   padding-bottom: 0.5em;

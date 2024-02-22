@@ -15,7 +15,7 @@
   list-style-type: none;
 }
 .navigation ul li:hover {
-  background-color: #9EF8EE;
+  background-color: #9ef8ee;
   padding: 1rem;
   color: aliceblue;
   cursor: pointer;
@@ -27,33 +27,56 @@
 }
 
 .hero__content {
- 
   background-color: white;
   min-width: 400px;
-  text-align: center;
+ 
 
   &__header {
-    height: 700px;
+    // height: 700px;
     background: url("/images/donate.jpg") no-repeat center center/cover;
-
-
+    padding: 4em 0;
     .white {
       color: white;
-      font-size: 200%;
     }
-    .margin__top{
-      padding-top: 7%;
+    .margin__top {
+      margin-bottom: 1em;
+      text-align: center;
+      h1{
+        font-size: 3rem;
+      }
+      p{
+
+      }
     }
   }
 }
 
-.card{
+
+.donation__form {
   background-color: #fff;
-  height: 430px;
+  padding: 1em;
+  /* height: 430px; */
   width: 50%;
-  margin-left: 30%;
-  margin-right: 10%;
+  margin: 0 auto;
   border-radius: 30px;
+  form{
+    // background-color: #9ef8ee;
+    padding: 1em;
+    gap: 1em;
+    @include flex(flex-start, flex-start, column);
+    div{
+      @include flex(flex-start, flex-start, column);
+      gap:0.5em;
+      width: 100%;
+      input{
+        width: 100%;
+        outline: none;
+        padding: 1.5em 1em;
+        border: none;
+        box-shadow: 0 0 5px lightgray;
+      }
+    }
+  }
 }
 
 
@@ -62,7 +85,7 @@
 .button--pen {
   --main_color: #5369cc;
   --sub_color1: #fff;
-  --sub_color2: hsl(49, 93%, 48%);
+  --sub_color2: rgb(237, 196, 10);
   --base_color: #000000;
   --border_radius1: 60px 60px 40px 40px / 48px 48px 30px 30px;
   --border_radius2: 70px 70px 40px 40px / 48px 48px 30px 30px;
@@ -73,7 +96,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 280px;
+  // width: 280px;
   height: 80px;
   box-sizing: border-box;
   text-decoration: none;
@@ -81,9 +104,8 @@
   border-radius: 40px;
   background: var(--main_color);
   font-family: "Fredoka One", cursive;
-  margin-left: 25%;
-  margin-top: 40%;
-
+  // margin-left: 25%;
+  margin-top: 3em;
 }
 .button::before {
   content: "";
@@ -214,7 +236,6 @@
 .button--pen .charactor__face2::after {
   right: -4px;
 }
-
 
 .button--pen::before {
   clip-path: path(
@@ -454,6 +475,15 @@
     height: 28px;
   }
 }
-
-
-
+@media screen and (max-width: 600px) {
+  .nav__container {
+    background-color: #9ef8ee;
+    &--right {
+      display: none;
+    }
+  }
+  .nav__container {
+    display: none;
+    z-index: 1;
+  }
+}

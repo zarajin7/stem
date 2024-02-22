@@ -58,13 +58,13 @@
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    font-size: 1rem;
+    font-size: 3rem;
     }
     .main-content__list ul li{
    padding-bottom: -1rem;
       }
       .main-content__list ul li:hover{
-        color:#F24405;
+      
         cursor:pointer;
         border-bottom: 3px solid #FA7F08;
         padding-bottom: 0.5em;

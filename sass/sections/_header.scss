@@ -1,6 +1,6 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
-.hero{
+.introduction{
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/home.png") ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,9 +8,10 @@
     height: 80vh;
      @include flex(center,center,column);
      text-align: center;
+    color:#fff;
     
-    color: white;
-    
+                                             
+
 }
 
 
@@ -126,7 +127,7 @@ padding: 2em;
     
 
     }
-    .main__content{
+    .main__profile{
         @include flex(center,flex-start);
         gap:4rem;
         margin-top: 2em;
@@ -141,34 +142,6 @@ padding: 2em;
         @include flex(center,flex-start,column);
         margin-top:1.5em;
     }
- 
-
-.about__us{
-    @include flex(center,center);
-    gap: 3em;
-    padding: 3em;
-    padding-top:2em;
-}
-.about__paragraph{
-    flex:1;
-    width: 50%;
-}
-.about__img{
-    flex:1;
-    width: 50%;
-    
-}
-.about__us h3{
-    margin-top: 1em;
-    font-size: 2rem;
-    font-weight: 2rem;
-}
-
-.about__us h2{
-color:$blue;
-font-weight: 3em;
-font-size:3em;
-}
 
 .nav__container {
     background-color:#9EF8EE;
@@ -195,46 +168,11 @@ font-size:3em;
     color: black;
   }
 
-.hero__content{
-    background-color:#9EF8EE;
-}
 .nav__mobile {
     display: none;
   }
 
-// list
 
-.main-container{
-    display: flex;
-  text-align: center;
-  }
-  
-  .main-content__left h3 {
-    font-size: 1rem;
-    padding-top: 6rem;
-  }
-  .main-content__left h1 {
-    font-size: 2rem;
-    padding-top: 4rem 0;
-  }
-  .main-content__list{
-  border-bottom: 3px solid black;
-  }
-  .main-content__list ul{
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-    font-size: 1rem;
-    }
-    .main-content__list ul li{
-   padding-bottom: -1rem;
-      }
-      .main-content__list ul li:hover{
-        color:#F24405;
-        cursor:pointer;
-        border-bottom: 3px solid #FA7F08;
-        padding-bottom: 0.5em;
-      }
 
 @media screen and (max-width: 810px) {
     

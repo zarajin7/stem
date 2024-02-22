@@ -1,6 +1,6 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
-.simulation__content{
+.simulation__introduction{
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/back.png");
   height: 60vh;
   background-size: cover;
@@ -47,7 +47,7 @@ padding-bottom: 2em;
     color:$aqua-blue;
   }
   .simulation{
-      @include flex(space-between,center,column,wrap);
+      @include flex(space-between,center,wrap);
   }
   .simulation__subject{
   @include flex(center,center,column,wrap);

@@ -1,0 +1,18 @@
+@use "../utilites/mixins" as *;
+@use "../utilites/variables" as *;
+.footer{
+    color:#fff;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/footer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    @include flex(space-between,center);
+    padding: 3em;
+    line-height: 3;
+    font-size: 20px;
+height: 70%;
+}
+
+.quick__link ul :hover{
+    color:$orange;
+    cursor: pointer;
+}

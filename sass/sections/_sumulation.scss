@@ -1,8 +1,8 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
 .simulation__introduction{
-  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/back.png");
-  height: 60vh;
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/back.jpg");
+  height: 80vh;
   background-size: cover;
   background-repeat: no-repeat;
   @include flex(center,center,column );
@@ -11,6 +11,9 @@
   font-size: 2em;
   font-weight:1.5em;
 
+}
+.nav__mobile{
+  display: none;
 }
 
 
@@ -30,15 +33,16 @@ padding-bottom: 2em;
   }
 
 
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 840px) {
     
   .nav__mobile {
-    display: block;
+    display: inline-block;
 
   }
-  .nav__container{
-    display: center;
-  }
+
+.navigation ul li:not(:last-child){
+  display: none;
+}
 
   h3{
     font-size: 1em;
@@ -47,11 +51,14 @@ padding-bottom: 2em;
     color:$aqua-blue;
   }
   .simulation{
-      @include flex(space-between,center,wrap);
+      @include flex(center,center,column,wrap);
   }
   .simulation__subject{
   @include flex(center,center,column,wrap);
 
+}
+.simulation__introduction p{
+  width: 100%;
 }
 
 }

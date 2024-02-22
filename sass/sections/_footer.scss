@@ -1,18 +1,41 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
-.footer{
-    color:#fff;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/footer.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    @include flex(space-between,center);
-    padding: 3em;
-    line-height: 3;
-    font-size: 20px;
-height: 70%;
+.footer__content{
+  @include flex(center, center);
+  gap:4em;}
+  .footer{
+background-color:$dark-cyan;
+height: 80%;
 }
 
-.quick__link ul :hover{
-    color:$orange;
-    cursor: pointer;
+.quick__link ul :hover {
+  color: $orange;
+  cursor: pointer;
+}
+.footer h3 {
+    color:black;
+}
+
+.quick__link {
+  @include flex(space-between, center);
+  gap: 4rem;
+  padding-top: 1rem;
+}
+.quick__link ul li {
+  list-style-type: none;
+}
+.footer__content input {
+  padding: 2em 3em;
+  border: solid black;
+  border-radius: 5px;
+  margin-top: 2rem;
+  text-align: center;
+  margin-bottom: 3em;
+}
+.footer__icons{
+    margin-top: 4rem;
+
+}
+.quick__section h3{ 
+    align-items: center;
 }

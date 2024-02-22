@@ -1,7 +1,7 @@
 @use "../utilites/mixins" as *;
 @use "../utilites/variables" as *;
 .introduction{
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/home.png") ;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../images/Screenshot from 2024-02-20 08-55-19.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -113,7 +113,7 @@ padding: 2em;
     
 }
  .main__steam{
-    background-color: $aqua-blue;
+
     @include flex(center,center,column);
     
     }
@@ -121,14 +121,14 @@ padding: 2em;
         padding: 2em 3em;
         border: solid black;
         background-color: transparent;
-        color:#fff;
+        color:$blue;
         border-radius: 10px;
         @include flex(center,center);
     
 
     }
     .main__profile{
-        @include flex(center,flex-start);
+        @include flex(flex-start,flex-start);
         gap:4rem;
         margin-top: 2em;
         padding-bottom: 1em;
@@ -174,25 +174,27 @@ padding: 2em;
 
 
 
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 840px) {
     
     .nav__mobile {
-      display: block;
+      display:none;
     }
+    .navigation ul{
+        display: none;
+    }
+    .navigation ul li:not(:last-child){
+        display: block;
+      }
   
 .circles{
-    @include flex(center,center,row,wrap)
+    @include flex(center,center,row,wrap);
 }
-  .science{
-    @include flex(center,center,column,wrap)
-  }
-    h1 {
-      font-size: 0.5em;
-      
-    }
-    .main__steam{
-        @include flex(center,center,column,wrap);
-    }
+.hero__introduction p{
+    width: 100%;
 
+}
+.science{
+    @include flex(center,center,column,wrap)
+}
   }
   

@@ -1,0 +1,11 @@
+.nav__top {
+  display: flex;
+  justify-content: center;
+  align-items: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

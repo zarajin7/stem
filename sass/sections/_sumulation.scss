@@ -1,0 +1,65 @@
+@use "../utilites/mixins" as *;
+@use "../utilites/variables" as *;
+.simulation__introduction{
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/back.jpg");
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  @include flex(center,center,column );
+  text-align: center;
+  color:$aqua-blue;
+  font-size: 2em;
+  font-weight:1.5em;
+
+}
+.nav__mobile{
+  display: none;
+}
+
+
+.simulation__subject{
+  @include flex(center,center);
+  gap:3em;
+padding-bottom: 2em;
+}
+.simulation__content__profile{
+  margin-top: 2rem;
+  font-size: 1.5em;
+  font-weight:2em ;
+}
+  .simulation__content__profile h2{
+    color:$orange ;
+    margin-bottom: 1em;
+  }
+
+
+@media screen and (max-width: 840px) {
+    
+  .nav__mobile {
+    display: inline-block;
+
+  }
+
+.navigation ul li:not(:last-child){
+  display: none;
+}
+
+  h3{
+    font-size: 1em;
+    text-align: center;
+    font-weight: 2em;
+    color:$aqua-blue;
+  }
+  .simulation{
+      @include flex(center,center,column,wrap);
+  }
+  .simulation__subject{
+  @include flex(center,center,column,wrap);
+
+}
+.simulation__introduction p{
+  width: 100%;
+}
+
+}
+  

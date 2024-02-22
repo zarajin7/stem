@@ -1,0 +1,29 @@
+.nav {
+    background-color: #f4f7f8;
+    padding: 2em 0;
+  }
+  .nav__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav__center {
+    display: flex;
+    gap: 3em;
+  }
+  .nav__center li:hover {
+    background-color: #eea539;
+    cursor: pointer;
+    color: white;
+  }
+  .nav__center li a {
+    text-decoration: none;
+    color: black;
+  }
+  .nav__right {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+  }
+  

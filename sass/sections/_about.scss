@@ -1,0 +1,12 @@
+
+@use "../utilites/mixins" as *;
+@use "../utilites/variables" as *;
+.about__us{
+    @include flex(center,center,)
+}
+.about__us button{
+    border: solid black;
+    border-radius: 10px;
+    margin-top: 2em;
+    background-color: aqua;
+}

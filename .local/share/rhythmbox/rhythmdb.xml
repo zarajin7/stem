@@ -1,0 +1,1260 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="iradio">
+    <title>Studio Brussel, Belgium</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icecast.vrtcdn.be/stubru-high.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kink - No Alternative</title>
+    <genre>Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Tronic Lounge</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/tronic.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (High Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_192m.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Dream Factory</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>wbur.org - Boston's NPR news source</title>
+    <genre>News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.wbur.org/stream/live_ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) HD-1</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://sc8.streammystation.com:7430/stream</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WSUM 91.7 FM (University of Wisconsin)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.studio.wsum.wisc.edu/wsum128</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WUVT-FM 90.7 (Virginia Tech)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://stream.wuvt.vt.edu/wuvt.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - I.D.M. Tranceponder</title>
+    <genre>Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/trance.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="song">
+    <title>Osiepe 22</title>
+    <genre>Other</genre>
+    <artist>Musa Juma</artist>
+    <album>Benga</album>
+    <track-number>6</track-number>
+    <duration>384</duration>
+    <file-size>6153281</file-size>
+    <location>file:///home/myc/Music/Musa%20Juma%20%20-%20%20Osiepe.mp3</location>
+    <mtime>1701374470</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>ENGLISH WORSHIP NONSTOP MIX 2024 DJ BUDDAH.mp3</title>
+    <genre>Other</genre>
+    <artist>DEEJAY BUDDAH 254</artist>
+    <album>Unknown</album>
+    <duration>3694</duration>
+    <file-size>118227835</file-size>
+    <location>file:///home/myc/Music/ENGLISH%20WORSHIP%20GOSPEL%20NONSTOP%20MIX%202024%20DJ%20BUDDAH%20(hearthis.at).mp3</location>
+    <mtime>1708224364</mtime>
+    <first-seen>1708231569</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Made with Sony ACID Pro 6.0</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>2023 BEST OF ODONGO SWAG -DJ RAMAH L7 -MOLLY PUNDA ONGIYO NINDO SUMINA IWERO NYOGAYA  ALBUM OHANGLA MIX(REVOLUTION DJZ)</title>
+    <genre>Other</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>5467</duration>
+    <file-size>174950507</file-size>
+    <location>file:///home/myc/Music/2023%20BEST%20OF%20ODONGO%20SWAG%20-DJ%20RAMAH%20L7%20-MOLLY%20PUNDA%20ONGIYO%20NINDO%20SUMINA%20IWERO%20NYOGAYA%20%20ALBUM%20OHANGLA%20MIX(REVOLUTION%20DJZ).mp3</location>
+    <mtime>1700203664</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Made with Sony ACID Pro 6.0</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>DJ JAMES PRESENTS BEST OF SDA CHOIR VOL 2 (Pink Djz) (hearthis.at).mp3</title>
+    <genre>Other</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>4397</duration>
+    <file-size>70352193</file-size>
+    <location>file:///home/myc/Music/DJ%20JAMES%20PRESENTS%20BEST%20OF%20SDA%20CHOIR%20VOL%202%20(Pink%20Djz)%20(hearthis.at).mp3</location>
+    <mtime>1652291706</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>house of rhumba presents nouvell mix 1</title>
+    <genre>Other</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <track-number>1</track-number>
+    <duration>4777</duration>
+    <file-size>191469837</file-size>
+    <location>file:///home/myc/Music/house%20of%20rhumba%20mix%201%20(nouvelle%20)%200724551350%20(hearthis.at).mp3</location>
+    <mtime>1706310684</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1706996320</last-played>
+    <date>736330</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>www.dvdvideosoft.com</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>BEST OF ABENNY JACHIGA (hearthis.at).mp3</title>
+    <genre>Other</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>6896</duration>
+    <file-size>82759662</file-size>
+    <location>file:///home/myc/Music/BEST%20OF%20ABENNY%20JACHIGA%20(hearthis.at).mp3</location>
+    <mtime>1706312388</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>96</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Made with Sony ACID Pro 6.0</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>house of rhumba presents rhumba mix 1</title>
+    <genre>Other</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <track-number>1</track-number>
+    <duration>4614</duration>
+    <file-size>184943546</file-size>
+    <location>file:///home/myc/Music/house%20of%20rhumba%20mix%202%20SANTIMAA%200724551350%20(hearthis.at)(3).mp3</location>
+    <mtime>1706309917</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>736330</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>www.dvdvideosoft.com</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>BESTOFMUSAJUMALIMPOPOINTERNATIONAL BYDJZEEH254.mp3</title>
+    <genre>Blues</genre>
+    <artist>DJZEEH254 FT MUSA JUMA LIMPOPO INT'L</artist>
+    <album>Unknown</album>
+    <duration>11860</duration>
+    <file-size>95337446</file-size>
+    <location>file:///home/myc/Music/BESTOFMUSAJUMALIMPOPOINTERNATIONAL%20BYDJZEEH254%20(hearthis.at).mp3</location>
+    <mtime>1706312462</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>0731717839</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Auma</title>
+    <genre>Blues</genre>
+    <artist>Musa  Jumah</artist>
+    <album>Unknown</album>
+    <duration>730</duration>
+    <file-size>11685888</file-size>
+    <location>file:///home/myc/Music/Musa%20Juma%20%20-%20%20AUMA.mp3</location>
+    <mtime>1701374482</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>ZEEHSERIES {Bashment time Riddim mixtape Edition}.mp3</title>
+    <genre>https://hearthis.at/djzeeh-hitbuoy/Other</genre>
+    <artist>DJZEEH_HITBUOY{https://hearthis.at/djzeeh-hitbuoy/}</artist>
+    <album>https://hearthis.at/djzeeh-hitbuoy/</album>
+    <duration>816</duration>
+    <file-size>14451374</file-size>
+    <location>file:///home/myc/Music/ZEEHSERIES%20Bashment%20time%20Riddim%20mixtape%20Edition%20(hearthis.at)(1).mp3</location>
+    <mtime>1706312206</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1707238003</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>https://hearthis.at/djzeeh-hitbuoy/</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Moyibi</title>
+    <genre>genre</genre>
+    <artist>Pepe Kale</artist>
+    <album>title</album>
+    <track-number>1</track-number>
+    <duration>361</duration>
+    <file-size>5785895</file-size>
+    <location>file:///home/myc/Music/Pepe%20kalle%20%20-%20%20Moyibi.mp3</location>
+    <mtime>1695569368</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Nina</title>
+    <genre>genre</genre>
+    <artist>Pepe Kale</artist>
+    <album>title</album>
+    <track-number>4</track-number>
+    <duration>373</duration>
+    <file-size>5982336</file-size>
+    <location>file:///home/myc/Music/Pepe%20kalle%20%20-%20%20Nina.mp3</location>
+    <mtime>1695569390</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Sikamo Saye</title>
+    <genre>genre</genre>
+    <artist>Pepe Kale</artist>
+    <album>title</album>
+    <track-number>12</track-number>
+    <duration>333</duration>
+    <file-size>5342440</file-size>
+    <location>file:///home/myc/Music/Pepe%20kalle%20%20-%20%20Sikamo%20Saye.mp3</location>
+    <mtime>1695569376</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>LUO OHANGLA DOZE MIX VOL1 ||BEST OF TONY NYADUNDO SET|| NOV 2020 CRAFTED BY DJ WIFI VEVO</title>
+    <genre>Unknown</genre>
+    <artist>DEEJAY WIFI VEVO</artist>
+    <album>DEEJAY WIFI VEVO</album>
+    <duration>5934</duration>
+    <file-size>71445286</file-size>
+    <location>file:///home/myc/Music/LUO%20OHANGLA%20DOZE%20MIX%20VOL1%20__BEST%20OF%20TONY%20NYADUNDO%20SET__%20NOV%202020%20CRAFTED%20BY%20DJ%20WIFI%20VEVO(MP3_70K).mp3</location>
+    <mtime>1700065458</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Singo en gowi</title>
+    <genre>Unknown</genre>
+    <artist>Okoth Jarapogi</artist>
+    <album>Unknown</album>
+    <duration>570</duration>
+    <file-size>9137208</file-size>
+    <location>file:///home/myc/Music/Okoth-Jarapogi-Singo-en-gowi.mp3</location>
+    <mtime>1701374636</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>Get more music on Mdundo.com</comment>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Omondi Tony Auma J</title>
+    <genre>Unknown</genre>
+    <artist>Rick Forsman</artist>
+    <album>Rick Forsman</album>
+    <duration>567</duration>
+    <file-size>6815882</file-size>
+    <location>file:///home/myc/Music/Omondi%20Tony%20Auma%20J(MP3_70K).mp3</location>
+    <mtime>1700387138</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708188368</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>LOVE BONGO MIX VOL 2 DJ FRANCOL,JAY MELODY,ZUCHU,DAIMANDO,HARMONIZE,ALI KIBA,RAYVANNY,LAVA LAVA Etc</title>
+    <genre>Unknown</genre>
+    <artist>DJ FRANCOL</artist>
+    <album>DJ FRANCOL</album>
+    <duration>4414</duration>
+    <file-size>88591779</file-size>
+    <location>file:///home/myc/Music/LOVE%20BONGO%20MIX%20VOL%202%20DJ%20FRANCOL_JAY%20MELODY_ZUCHU_DAIMANDO_HARMONIZE_ALI%20KIBA_RAYVANNY_LAVA%20LAVA%20Etc(MP3_160K).mp3</location>
+    <mtime>1685981660</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>MusaJuma  Hera Mudho(Lovely)</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>MusaJuma  Hera Mudho(Lovely)</album>
+    <duration>579</duration>
+    <file-size>7057871</file-size>
+    <location>file:///home/myc/Music/Musa%20Juma%20%20Hera%20Mudho(Lovely)(MP3_70K)_1.mp3</location>
+    <mtime>1700387148</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708185765</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>TONY NDIEMA - NG'UON NA [SMS: SKIZA 5436917 or 5436918 To 811]</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>TONY NDIEMA - NG'UON NA [SMS: SKIZA 5436917 or 5436918 To 811]</album>
+    <duration>608</duration>
+    <file-size>7412220</file-size>
+    <location>file:///home/myc/Music/TONY%20NDIEMA%20-%20NG_UON%20NA%20%5BSMS_%20SKIZA%205436917%20or%205436918%20To%20811%5D(MP3_70K)_1.mp3</location>
+    <mtime>1700065286</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708185186</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Johnny Junior | Awino | Official Video</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Johnny Junior | Awino | Official Video</album>
+    <duration>696</duration>
+    <file-size>8480307</file-size>
+    <location>file:///home/myc/Music/Johnny%20Junior%20_%20Awino%20_%20Official%20Video(MP3_70K)_1.mp3</location>
+    <mtime>1700387154</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708187180</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Emma Jalamo - Hera Neko</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Emma Jalamo - Hera Neko</album>
+    <duration>619</duration>
+    <file-size>7599626</file-size>
+    <location>file:///home/myc/Music/Emma%20Jalamo%20-%20Hera%20Neko(MP3_70K)_1.mp3</location>
+    <mtime>1700387208</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708187800</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Johnny Junior - Hera Mogwedhi</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Johnny Junior - Hera Mogwedhi</album>
+    <duration>719</duration>
+    <file-size>8854025</file-size>
+    <location>file:///home/myc/Music/Johnny%20Junior%20-%20Hera%20Mogwedhi(MP3_70K).mp3</location>
+    <mtime>1700387156</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708186484</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Abenny Jachiga -cousin.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>1004</duration>
+    <file-size>24111652</file-size>
+    <location>file:///home/myc/Music/Abenny%20Jachiga%20-cousin.mp3</location>
+    <mtime>1701374632</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Omondi long Lilo _Diana.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>1123</duration>
+    <file-size>17969667</file-size>
+    <location>file:///home/myc/Music/Omondi%20long%20Lilo%20_Diana.mp3</location>
+    <mtime>1701374478</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>y2mate.com - BEST OF OHANGLA TRENDING 2023 VIDEO MIX FT UNCLE EDDY OKOTH JARAPOGI PAPA T ELLY TOTO P INDAH_360p.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>6747</duration>
+    <file-size>107955221</file-size>
+    <location>file:///home/myc/Music/y2mate.com%20-%20BEST%20OF%20OHANGLA%20TRENDING%202023%20VIDEO%20MIX%20FT%20UNCLE%20EDDY%20OKOTH%20JARAPOGI%20PAPA%20T%20ELLY%20TOTO%20P%20INDAH_360p.mp3</location>
+    <mtime>1676594690</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>SMASH MIX LIVE MDJ EANTO THE MANPOWER LUO,RHUMBA,AFROPIANO(GASLIGHT LOUNG) (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>2390</duration>
+    <file-size>66938739</file-size>
+    <location>file:///home/myc/Music/SMASH%20MIX%20LIVE%20MDJ%20EANTO%20THE%20MANPOWER%20LUO,RHUMBA,AFROPIANO(GASLIGHT%20LOUNG)%20(hearthis.at).mp3</location>
+    <mtime>1706310319</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>2</play-count>
+    <last-played>1707795683</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>y2meta.com - Prince Indah - Mummy Chulo (Official Audio)</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>608</duration>
+    <file-size>9743379</file-size>
+    <location>file:///home/myc/Music/Prince%20Indah%20-%20Mummy%20Chulo%20(Official%20Audio).mp3</location>
+    <mtime>1695569208</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Latest gospel mix 2023 best of Guardian Angel Mix Ft NIMEPENDA REMIX x Sammy G -- SEVEN HEAVEN MUSIC_2.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>3215</duration>
+    <file-size>51445665</file-size>
+    <location>file:///home/myc/Music/Latest%20gospel%20mix%202023%20best%20of%20Guardian%20Angel%20Mix%20Ft%20NIMEPENDA%20REMIX%20x%20Sammy%20G%20--%20SEVEN%20HEAVEN%20MUSIC_2.mp3</location>
+    <mtime>1704085736</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>ELISHA TOTO ][ PAROGA NYASUBA OFFICIAL VIDEO] Sms _Skiza 5438087_ to _811_.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>557</duration>
+    <file-size>10085046</file-size>
+    <location>file:///home/myc/Music/ELISHA%20TOTO%20%5D%5B%20PAROGA%20NYASUBA%20OFFICIAL%20VIDEO%5D%20Sms%20_Skiza%205438087_%20to%20_811_.mp3</location>
+    <mtime>1700640292</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/x-opus</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>unchangeable_by_joepraize_official_video_mp3_20329.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>386</duration>
+    <file-size>6189487</file-size>
+    <location>file:///home/myc/Music/unchangeable_by_joepraize_official_video_mp3_20329.mp3</location>
+    <mtime>1667454006</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Javan_MacAjudo_-_Olwenda_[Be_Real]_Official_Visualizer.(256k).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>553</duration>
+    <file-size>17702445</file-size>
+    <location>file:///home/myc/Music/Javan_MacAjudo_-_Olwenda_%5BBe_Real%5D_Official_Visualizer.(256k).mp3</location>
+    <mtime>1700065256</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>BEST_OF_KOFFI_OLOMIDE_-_RETRO_RUMBA_MIX_1__ABONNEZ-VOUS__SUSCRIBE_FOR_MORE(360p).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>2586</duration>
+    <file-size>41377959</file-size>
+    <location>file:///home/myc/Music/BEST_OF_KOFFI_OLOMIDE_-_RETRO_RUMBA_MIX_1__ABONNEZ-VOUS__SUSCRIBE_FOR_MORE(360p).mp3</location>
+    <mtime>1695569318</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>elisha_toto_paroga_nyasuba_corona_mp3_44382_120840.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>559</duration>
+    <file-size>8954287</file-size>
+    <location>file:///home/myc/Music/elisha_toto_paroga_nyasuba_corona_mp3_44382_120840.mp3</location>
+    <mtime>1643208754</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>rhumba mix dj george kenya (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>3198</duration>
+    <file-size>76774405</file-size>
+    <location>file:///home/myc/Music/rhumba%20mix%20dj%20george%20kenya%20(hearthis.at).mp3</location>
+    <mtime>1706311112</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1707273858</last-played>
+    <date>738317</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Tanzania Amapiano Mix 2023 Diamond ,Harmonize, Jux, Enjoy, Rayvanny, Shu, Marioo, Alikiba.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>5314</duration>
+    <file-size>85031705</file-size>
+    <location>file:///home/myc/Music/Tanzania%20Amapiano%20Mix%202023%20Diamond%20,Harmonize,%20Jux,%20Enjoy,%20Rayvanny,%20Shu,%20Marioo,%20Alikiba.mp3</location>
+    <mtime>1706310912</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>2</play-count>
+    <last-played>1707561549</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Okatch_Biggy_-_Nyathi_Nyakach(128k).m4a</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>692</duration>
+    <file-size>10994303</file-size>
+    <location>file:///home/myc/Music/Okatch_Biggy_-_Nyathi_Nyakach(128k).m4a</location>
+    <mtime>1701819104</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>736986</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Luo Rhumba (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>5553</duration>
+    <file-size>133283466</file-size>
+    <location>file:///home/myc/Music/Luo%20Rhumba%20(hearthis.at).mp3</location>
+    <mtime>1706310327</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Freddy_jakadongo dagi engima miyiero _promo_video_mp3_44162.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>700</duration>
+    <file-size>11215966</file-size>
+    <location>file:///home/myc/Music/Freddy_jakadongo%20dagi%20engima%20miyiero%20_promo_video_mp3_44162.mp3</location>
+    <mtime>1701374628</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>dveejay nique rhumbah ohangla mix mp3 2020 {0790773925}</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>7865</duration>
+    <file-size>189373499</file-size>
+    <location>file:///home/myc/Music/dveejay%20nique%20rhumbah%20ohangla%20mix%20mp3%202020%200790773925%20(hearthis.at).mp3</location>
+    <mtime>1706310940</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>2</play-count>
+    <last-played>1707540640</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>dveejay nique new ohanglah mix 2021{0790773925}</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>9656</duration>
+    <file-size>232507405</file-size>
+    <location>file:///home/myc/Music/dveejay%20nique%20new%20ohanglah%20mix%2020210790773925%20(hearthis.at).mp3</location>
+    <mtime>1706310996</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1707556234</last-played>
+    <date>737984</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Ouma Basement Cynthia.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>1125</duration>
+    <file-size>18222139</file-size>
+    <location>file:///home/myc/Music/Ouma%20Basement%20Cynthia.mp3</location>
+    <mtime>1701374620</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>737841</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Omondi_Long`lillo_Okoth manganga.m4a</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>761</duration>
+    <file-size>12328130</file-size>
+    <location>file:///home/myc/Music/Omondi_Long%60lillo_Okoth%20manganga.m4a</location>
+    <mtime>1701819092</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>738017</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>CLUB BANGERS DJ JOMBA MC MIDO @EAGLESNEST LIVE (GoPato, Geri Inengi, Amapiano, Buga, Afrobeats) (1).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>4184</duration>
+    <file-size>66947594</file-size>
+    <location>file:///home/myc/Music/CLUB%20BANGERS%20DJ%20JOMBA%20MC%20MIDO%20@EAGLESNEST%20LIVE%20(GoPato,%20Geri%20Inengi,%20Amapiano,%20Buga,%20Afrobeats)%20(1).mp3</location>
+    <mtime>1700640058</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Prince_Indah_ft_Musa_Jakadala_-_Bilima_(Official_Audio)(128k).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>503</duration>
+    <file-size>8057555</file-size>
+    <location>file:///home/myc/Music/Prince_Indah_ft_Musa_Jakadala_-_Bilima_(Official_Audio)(128k).mp3</location>
+    <mtime>1700065286</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Okatch_Biggy_-_Dave_Ayoro(128k).m4a</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>908</duration>
+    <file-size>14697778</file-size>
+    <location>file:///home/myc/Music/Okatch_Biggy_-_Dave_Ayoro(128k).m4a</location>
+    <mtime>1701819108</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>737511</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>y2mate.com - DJ KENATO BEST OF PRINCE INDAH MIXTAPE 2023 OHANGLA MIX HIT SONGS.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>4417</duration>
+    <file-size>70682601</file-size>
+    <location>file:///home/myc/Music/y2mate.com%20-%20DJ%20KENATO%20BEST%20OF%20PRINCE%20INDAH%20MIXTAPE%202023%20OHANGLA%20MIX%20HIT%20SONGS.mp3</location>
+    <mtime>1689540636</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>SAUTI SOL MEGA MIX - DJ KENB_2.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>7080</duration>
+    <file-size>84962566</file-size>
+    <location>file:///home/myc/Music/SAUTI%20SOL%20MEGA%20MIX%20-%20DJ%20KENB_2.mp3</location>
+    <mtime>1659350650</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Ouma Basement Milicento.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>595</duration>
+    <file-size>9638191</file-size>
+    <location>file:///home/myc/Music/Ouma%20Basement%20Milicento.mp3</location>
+    <mtime>1701374614</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>737748</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>  BEST RHUMBA MIX DJ BLEND .mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>3793</duration>
+    <file-size>60690318</file-size>
+    <location>file:///home/myc/Music/%20%20BEST%20RHUMBA%20MIX%20DJ%20BLEND%20.mp3</location>
+    <mtime>1658747142</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1708184578</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>yt5s.io - Prince Indah - Osiepe (Official Audio)</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>551</duration>
+    <file-size>8820517</file-size>
+    <location>file:///home/myc/Music/Prince%20Indah%20-%20Osiepe%20(Official%20Audio)-1.mp3</location>
+    <mtime>1695569114</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Koffi_Macadory___Nyar_Masiro(256k).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>794</duration>
+    <file-size>25433901</file-size>
+    <location>file:///home/myc/Music/Koffi_Macadory___Nyar_Masiro(256k).mp3</location>
+    <mtime>1695569230</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>RELAXING RHUMBA MIX (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>4295</duration>
+    <file-size>103087026</file-size>
+    <location>file:///home/myc/Music/RELAXING%20RHUMBA%20MIX%20(hearthis.at).mp3</location>
+    <mtime>1706311117</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>738323</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>BEST OF NDOGO JARAHA TRIBUTE BY DJ NEY 2024 (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>2341</duration>
+    <file-size>56200089</file-size>
+    <location>file:///home/myc/Music/BEST%20OF%20NDOGO%20JARAHA%20TRIBUTE%20BY%20DJ%20NEY%202024%20(hearthis.at).mp3</location>
+    <mtime>1706310513</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1706989829</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>BEST OF RHUMBA MIX 2023 3HRS NON-STOP - DJ McINTYRE [0795818647] (hearthis.at)(1).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>10568</duration>
+    <file-size>253647000</file-size>
+    <location>file:///home/myc/Music/BEST%20OF%20RHUMBA%20MIX%202023%203HRS%20NON-STOP%20-%20DJ%20McINTYRE%20%5B0795818647%5D%20(hearthis.at)(1).mp3</location>
+    <mtime>1706309211</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1706987488</last-played>
+    <date>738678</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>RHUMBA VOL 1 MIXX 2024 BY DJ NEY (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>2433</duration>
+    <file-size>58398137</file-size>
+    <location>file:///home/myc/Music/RHUMBA%20VOL%201%20MIXX%202024%20BY%20DJ%20NEY%20(hearthis.at).mp3</location>
+    <mtime>1706309341</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1707798116</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Dj Rich - Best of Musa Juma. M.J Luo Rhumba (hearthis.at).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>5826</duration>
+    <file-size>139830587</file-size>
+    <location>file:///home/myc/Music/Dj%20Rich%20-%20Best%20of%20Musa%20Juma.%20M.J%20Luo%20Rhumba%20(hearthis.at).mp3</location>
+    <mtime>1706310086</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1706975073</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Dj job- AFRICAN WORSHIP PLAYLIST 1 (WEST AFRICA NIGERIA N SOUTH AFRICA)(www.djjob.co.ke).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>4750</duration>
+    <file-size>76013118</file-size>
+    <location>file:///home/myc/Music/Dj%20job-%20AFRICAN%20WORSHIP%20PLAYLIST%201%20(WEST%20AFRICA%20NIGERIA%20N%20SOUTH%20AFRICA)(www.djjob.co.ke).mp3</location>
+    <mtime>1587868148</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Ochinjo Jaraha ][ Barikiwa St.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>796</duration>
+    <file-size>25480591</file-size>
+    <location>file:///home/myc/Music/Ochinjo%20Jaraha%20%5D%5B%20Barikiwa%20St.mp3</location>
+    <mtime>1695569438</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Onyi Papa Jey -Nyar Maasai part 2.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>550</duration>
+    <file-size>13211617</file-size>
+    <location>file:///home/myc/Music/Onyi%20Papa%20Jey%20-Nyar%20Maasai%20part%202.mp3</location>
+    <mtime>1701374624</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>fally_ipupa_mayday_mp3_85587.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>439</duration>
+    <file-size>7028236</file-size>
+    <location>file:///home/myc/Music/fally_ipupa_mayday_mp3_85587.mp3</location>
+    <mtime>1693784802</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <play-count>1</play-count>
+    <last-played>1707270640</last-played>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>SnapInsta.io - Prince Indah - Kogik Otieno (Official Audio)</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>449</duration>
+    <file-size>7185890</file-size>
+    <location>file:///home/myc/Music/Prince%20Indah%20-%20Kogik%20Otieno%20(Official%20Audio).mp3</location>
+    <mtime>1695569182</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>BEST OF MADILU SYSTEM-2.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>4642</duration>
+    <file-size>74287521</file-size>
+    <location>file:///home/myc/Music/BEST%20OF%20MADILU%20SYSTEM-2.mp3</location>
+    <mtime>1695679874</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Okatch_Biggy_-_Caleb_Dr(128k).m4a</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>1028</duration>
+    <file-size>16335396</file-size>
+    <location>file:///home/myc/Music/Okatch_Biggy_-_Caleb_Dr(128k).m4a</location>
+    <mtime>1701819110</mtime>
+    <first-seen>1708171809</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>736999</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>MADILU_SYSTEM_FIFI_ALONGE(256k).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>375</duration>
+    <file-size>12011565</file-size>
+    <location>file:///home/myc/Music/MADILU_SYSTEM_FIFI_ALONGE(256k).mp3</location>
+    <mtime>1698174070</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Sis Lavender Obuya-Umesikia Kilio Changu (Holy is the Lamb).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <track-number>6</track-number>
+    <duration>660</duration>
+    <file-size>21127416</file-size>
+    <location>file:///home/myc/Music/Sis%20Lavender%20Obuya-Umesikia%20Kilio%20Changu%20(Holy%20is%20the%20Lamb).mp3</location>
+    <mtime>1529780928</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>256</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Ouma%20basement%20Judy%20Nyakodongo%20seme(360P).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>665</duration>
+    <file-size>8095650</file-size>
+    <location>file:///home/myc/Music/Ouma%2520basement%2520Judy%2520Nyakodongo%2520seme(360P).mp3</location>
+    <mtime>1701374606</mtime>
+    <first-seen>1708171808</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>95</bitrate>
+    <date>0</date>
+    <media-type>audio/x-aac</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>bwana_umeinuliwa_mp3_26039.mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>331</duration>
+    <file-size>5296726</file-size>
+    <location>file:///home/myc/Music/bwana_umeinuliwa_mp3_26039.mp3</location>
+    <mtime>1667632444</mtime>
+    <first-seen>1708171811</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Omondi Tony - Nyoremo (Official Audio).</title>
+    <genre>Unknown</genre>
+    <artist>Alice Tropez</artist>
+    <album>Alice Tropez</album>
+    <duration>607</duration>
+    <file-size>9713738</file-size>
+    <location>file:///home/myc/Music/Omondi%20Tony%20-%20Nyoremo%20(Official%20Audio)(MP3_128K).mp3</location>
+    <mtime>1700387140</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Omondi  Tonny  - Akinyi Judy</title>
+    <genre>Unknown</genre>
+    <artist>Nyathi Mikayi</artist>
+    <album>Nyathi Mikayi</album>
+    <duration>742</duration>
+    <file-size>9269648</file-size>
+    <location>file:///home/myc/Music/Omondi%20%20Tonny%20%20-%20Akinyi%20Judy(MP3_70K).mp3</location>
+    <mtime>1700387144</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Musa Juma  - Hera Mwandu Video</title>
+    <genre>Unknown</genre>
+    <artist>Nyathi Mikayi</artist>
+    <album>Nyathi Mikayi</album>
+    <duration>653</duration>
+    <file-size>8040049</file-size>
+    <location>file:///home/myc/Music/Musa%20Juma%20%20-%20Hera%20Mwandu%20Video(MP3_70K)(0).mp3</location>
+    <mtime>1700387172</mtime>
+    <first-seen>1708171810</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>Worship Service 28.08.2015.</title>
+    <genre>Unknown</genre>
+    <artist>National Worship Team</artist>
+    <album>The Grand Mega Super-Massive Eldoret Meeting</album>
+    <track-number>5</track-number>
+    <duration>14253</duration>
+    <file-size>281103553</file-size>
+    <location>file:///home/myc/Music/%5B005%5D%20Worship%20Kesha%20I_28.08.2015.mp3</location>
+    <mtime>1441619754</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <date>735599</date>
+    <media-type>audio/mpeg</media-type>
+    <album-artist>National Worship Team</album-artist>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>KISUMU END YEAR WORSHIP 2.mp3</title>
+    <genre>Unknown</genre>
+    <artist>KISUMU END YEAR WORSHIP 2</artist>
+    <album>Unknown</album>
+    <duration>9233</duration>
+    <file-size>147736997</file-size>
+    <location>file:///home/myc/Music/1%20KISUMU%20END%20YEAR%20WORSHIP%202.mp3</location>
+    <mtime>1456076394</mtime>
+    <first-seen>1706672864</first-seen>
+    <last-seen>1708341831</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+</rhythmdb>

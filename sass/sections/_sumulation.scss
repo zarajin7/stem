@@ -28,5 +28,31 @@ padding-bottom: 2em;
     color:$orange ;
     margin-bottom: 1em;
   }
-  
+
+
+@media screen and (max-width: 810px) {
+    
+  .nav__mobile {
+    display: block;
+
+  }
+  .nav__container{
+    display: center;
+  }
+
+  h3{
+    font-size: 1em;
+    text-align: center;
+    font-weight: 2em;
+    color:$aqua-blue;
+  }
+  .simulation{
+      @include flex(space-between,center,column,wrap);
+  }
+  .simulation__subject{
+  @include flex(center,center,column,wrap);
+
+}
+
+}
   

@@ -169,3 +169,92 @@ color:$blue;
 font-weight: 3em;
 font-size:3em;
 }
+
+.nav__container {
+    background-color:#9EF8EE;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .navigation ul {
+    display: flex;
+    gap: 3em;
+  }
+  .navigation ul li {
+    list-style-type: none;
+  }
+  .navigation ul li:hover {
+    background-color: #FA7F08;
+
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  .navigation ul li a {
+    text-decoration: none;
+    color: black;
+  }
+
+.hero__content{
+    background-color:#9EF8EE;
+}
+.nav__mobile {
+    display: none;
+  }
+
+// list
+
+.main-container{
+    display: flex;
+  text-align: center;
+  }
+  
+  .main-content__left h3 {
+    font-size: 1rem;
+    padding-top: 6rem;
+  }
+  .main-content__left h1 {
+    font-size: 2rem;
+    padding-top: 4rem 0;
+  }
+  .main-content__list{
+  border-bottom: 3px solid black;
+  }
+  .main-content__list ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 1rem;
+    }
+    .main-content__list ul li{
+   padding-bottom: -1rem;
+      }
+      .main-content__list ul li:hover{
+        color:#F24405;
+        cursor:pointer;
+        border-bottom: 3px solid #FA7F08;
+        padding-bottom: 0.5em;
+      }
+
+@media screen and (max-width: 810px) {
+    
+    .nav__mobile {
+      display: block;
+    }
+  
+.circles{
+    @include flex(center,center,row,wrap)
+}
+  .science{
+    @include flex(center,center,column,wrap)
+  }
+    h1 {
+      font-size: 0.5em;
+      
+    }
+    .main__steam{
+        @include flex(center,center,column,wrap);
+    }
+
+  }
+  

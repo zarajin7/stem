@@ -15,8 +15,12 @@
 }
 
 .navigation ul li:hover {
+ali
+  background-color: #9ef8ee;
+
   background-color: #9EF8EE;
   padding: 1rem;
+ development
   color: aliceblue;
   cursor: pointer;
   border-radius: 20px;
@@ -50,7 +54,7 @@
 }
 
 .donation__form {
-  background-color: #fff;
+  background-color: #22babb;
   padding: 1em;
   /* height: 430px; */
   width: 50%;
@@ -689,7 +693,7 @@
 }
 
 .nav__container {
-  background-color: #9EF8EE;
+  background-color: #22BABB;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -727,12 +731,10 @@
 
 .main-content__left h3 {
   font-size: 1rem;
-  padding-top: 6rem;
 }
 
 .main-content__left h1 {
   font-size: 2rem;
-  padding-top: 4rem 0;
 }
 
 .main-content__list {
@@ -743,16 +745,28 @@
   display: flex;
   justify-content: space-evenly;
   list-style-type: none;
+ ali
+  font-size: 1em;
+
   font-size: 1rem;
 }
 
 .main-content__list ul li {
   padding-bottom: -1rem;
+ development
 }
 
 .main-content__list ul li:hover {
   color: #F24405;
   cursor: pointer;
   border-bottom: 3px solid #FA7F08;
-  padding-bottom: 0.5em;
+}
+
+.main__content1 {
+  padding: 2em;
+  font-size: 20px;
+  background-color: #9EF8EE;
+}
+.main__content1 img {
+  display: flex;
 }

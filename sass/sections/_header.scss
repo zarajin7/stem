@@ -1,12 +1,148 @@
-@use "../utilites/mixins";
-@use "../utilites/variables";
-.home__page{
-    background-image: url(../images/stem.jpg);
+@use "../utilites/mixins" as *;
+@use "../utilites/variables" as *;
+.introduction{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../images/Screenshot from 2024-02-20 08-55-19.png") ;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-size: cover;
+    
+    height: 80vh;
+     @include flex(center,center,column);
+     text-align: center;
+    color:#fff;
+    
+                                             
 
+}
+
+
+    .btn{
+        padding: 2em 5rem;
+        border-radius: 50px;
+        border: none;
+        text-align: center;
+          
+    }
+    
+    
+
+    .blue{
+        background-color:$blue;
+    
+    }
+    .orange{
+        background-color:$orange
+}
+.cyan{
+    background-color:$dark-cyan
+}
+.aqua {
+    background-color:$aqua-blue;
+}
+
+
+
+
+.science{
+    display: flex;
+    justify-content: space-between;
+    box-shadow:inset;
+    border: darkgray;
+    border-color: darkgray;
+    margin-top: 2rem;
+    height: 80%;
+    
     
 }
+.paragraph{
+    color:darkgray;
+    padding-bottom:1rem;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50%;
+width: 30%;
+margin: 0 auto;
+margin-top: 2rem;
+@include flex(center,center);
+
+}
+.hero h1{
+    font-size:4rem;
+    font-weight: bolder;
+
+    
+    
+}
+.stem{
+    color:$dark-cyan;
+}
+.circles{
+    border-radius: 50%;
+    height: 50px;
+    border: none;
+    padding: 5em;
+    width: 50px;
+    text-align: center;
+@include flex(center,center)
+
+}
+
+.round__circles{
+@include flex(center,center);
+gap:3rem;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+
+.tech{
+padding: 2em;
+    width: 90%;
+
+    text-align: center;
+    box-shadow: 0px 0px 5px darkgray;
+    margin-bottom: 2rem;
+
+}
+.text{
+    text-align: center;
+    font-size: 3rem;
+    font-weight:2rem ;
+}
+.tech:nth-child(2){
+    margin-left: 1em;
+    margin-right:1em;
+    
+}
+ .main__steam{
+
+    @include flex(center,center,column);
+    
+    }
+    .main__button{
+        padding: 2em 3em;
+        border: solid black;
+        background-color: transparent;
+        color:$blue;
+        border-radius: 10px;
+        @include flex(center,center);
+    
+
+    }
+    .main__profile{
+        @include flex(flex-start,flex-start);
+        gap:4rem;
+        margin-top: 2em;
+        padding-bottom: 1em;
+        
+    }
+    .content__mechanical{
+        @include flex(center,center,column);
+    
+    }
+    .content__mechanical ul{
+        @include flex(center,flex-start,column);
+        margin-top:1.5em;
+    }
+
 .nav__container {
     background-color:#22BABB;
     display: flex;
@@ -22,7 +158,7 @@
   }
   .navigation ul li:hover {
     background-color: #FA7F08;
-    padding: 1rem;
+
     color: aliceblue;
     cursor: pointer;
     border-radius: 20px;
@@ -59,10 +195,17 @@
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+ali
     font-size: 1em;
+
+    font-size: 1rem;
+    }
+    .main-content__list ul li{
+   padding-bottom: -1rem;
+ development
       }
       .main-content__list ul li:hover{
-      
+        color:#F24405;
         cursor:pointer;
         border-bottom: 3px solid #FA7F08;
         // padding-bottom: 0.5em;

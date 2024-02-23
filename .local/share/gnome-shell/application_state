@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="0.1572265625" last-seen="1708233146"/>
+    <application id="org.gnome.Evince.desktop" score="53.932037353515625" last-seen="1708363146"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1708052555"/>
+    <application id="brave-browser.desktop" score="667.43148040771484" last-seen="1708363148"/>
+    <application id="gnome-control-center.desktop" score="34039.367243969114" last-seen="1708341947"/>
+    <application id="apport-gtk.desktop" score="0.149261474609375" last-seen="1708322555"/>
+    <application id="org.gnome.eog.desktop" score="0.568878173828125" last-seen="1708363248"/>
+    <application id="org.gnome.Nautilus.desktop" score="36.000831955345348" last-seen="1708363248"/>
+    <application id="slack.desktop" score="38.71649169921875" last-seen="1708363238"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0.06640625" last-seen="1708334075"/>
+    <application id="snap-store_ubuntu-software.desktop" score="0.056640625" last-seen="1708096318"/>
+    <application id="org.gnome.gedit.desktop" score="0.015625" last-seen="1708331488"/>
+    <application id="shotwell.desktop" score="0.23388671875" last-seen="1708322534"/>
+    <application id="org.gnome.Terminal.desktop" score="2.7088785211089998" last-seen="1708333176"/>
+    <application id="rhythmbox.desktop" score="12.689453125" last-seen="1708341900"/>
+    <application id="firefox_firefox.desktop" score="184.83443009876646" last-seen="1708342267"/>
+    <application id="org.gnome.Totem.desktop" score="11.7786865234375" last-seen="1708233147"/>
+    <application id="thunderbird.desktop" score="0.01025390625" last-seen="1708130203"/>
+    <application id="code.desktop" score="884.93701171875" last-seen="1708363242"/>
+    <application id="sol.desktop" score="0.00390625" last-seen="1707799434"/>
+  </context>
+</application-state>

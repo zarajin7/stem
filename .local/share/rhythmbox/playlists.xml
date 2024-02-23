@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rhythmdb-playlists>
+  <playlist name="My Top Rated" show-browser="true" browser-position="156" search-type="search-match" type="automatic" sort-key="Rating" sort-direction="1">
+    <conjunction>
+      <equals prop="type">song</equals>
+      <subquery>
+        <conjunction>
+          <greater prop="rating">4.000000</greater>
+        </conjunction>
+      </subquery>
+    </conjunction>
+  </playlist>
+  <playlist name="Recently Played" show-browser="false" browser-position="189" search-type="search-match" type="automatic" sort-key="Track" sort-direction="0">
+    <conjunction>
+      <equals prop="type">song</equals>
+      <subquery>
+        <conjunction>
+          <current-time-within prop="last-played">604800</current-time-within>
+        </conjunction>
+      </subquery>
+    </conjunction>
+  </playlist>
+  <playlist name="Play Queue" show-browser="false" browser-position="180" search-type="search-match" type="queue"/>
+</rhythmdb-playlists>

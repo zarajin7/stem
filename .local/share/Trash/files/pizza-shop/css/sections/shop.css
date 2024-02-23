@@ -1,0 +1,20 @@
+.menu__list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
+.menu__list__border{
+    border:solid darkgray 1px;
+    width:100%;
+    margin:2.5em 0;
+}
+..menu__list h3:hover{
+    color:#EEA539;
+    cursor:2.5em 0;
+}
+
+.menu__pizza__images{
+    display: flex;
+    
+}

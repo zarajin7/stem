@@ -10,3 +10,13 @@
     margin-top: 2em;
     background-color: aqua;
 }
+.about__us{
+    @include flex(space-around,center,column);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+    }
+.about{
+    @include flex(center,center);
+    width: 50%;
+}

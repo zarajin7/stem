@@ -6,17 +6,19 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 2em;
 }
 .navigation ul {
   display: flex;
   gap: 3em;
+  padding:2em;
 }
 .navigation ul li {
   list-style-type: none;
+  padding: 1em;
 }
 .navigation ul li:hover {
   background-color: #9EF8EE;
-  padding: 1rem;
   color: aliceblue;
   cursor: pointer;
   border-radius: 20px;

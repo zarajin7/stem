@@ -16,7 +16,7 @@
 }
 .navigation ul li:hover {
   background-color: #9ef8ee;
-  padding: 1rem;
+  // padding: 1rem;
   color: aliceblue;
   cursor: pointer;
   border-radius: 20px;
@@ -29,7 +29,6 @@
 .hero__content {
   background-color: white;
   min-width: 400px;
- 
 
   &__header {
     // height: 700px;
@@ -41,34 +40,33 @@
     .margin__top {
       margin-bottom: 1em;
       text-align: center;
-      h1{
+      h1 {
         font-size: 3rem;
       }
-      p{
+      p {
         font-size: 1rem;
       }
     }
   }
 }
 
-
 .donation__form {
-  background-color: #fff;
+  background-color: #22babb;
   padding: 1em;
   /* height: 430px; */
   width: 50%;
   margin: 0 auto;
   border-radius: 30px;
-  form{
+  form {
     // background-color: #9ef8ee;
     padding: 1em;
     gap: 1em;
     @include flex(flex-start, flex-start, column);
-    div{
+    div {
       @include flex(flex-start, flex-start, column);
-      gap:0.5em;
+      gap: 0.5em;
       width: 100%;
-      input{
+      input {
         width: 100%;
         outline: none;
         padding: 1.5em 1em;
@@ -78,7 +76,6 @@
     }
   }
 }
-
 
 // Buttons
 

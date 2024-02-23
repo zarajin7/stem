@@ -15,6 +15,7 @@ This is how the website looks like
   ## technologies used
   * Html5
   * css
+  * sass as the pre-processor for css
   ## projectsetup and installation
   1. Open the terminlal and navigate to were the project is supposed to be stored eg ~Desktop~
   2. To cop the github page to the terminal using the link below~gitclone[https://github.com/zarajin7/stem]~

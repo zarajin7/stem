@@ -22,7 +22,7 @@
   }
   .navigation ul li:hover {
     background-color: #FA7F08;
-    padding: 1rem;
+  
     color: aliceblue;
     cursor: pointer;
     border-radius: 20px;
@@ -34,6 +34,8 @@
 
 .hero__content{
     background-color:#9EF8EE;
+    // padding: 2em;
+    text-align: center;
 }
 
 // list
@@ -50,7 +52,7 @@
   }
   .main-content__left h1 {
     font-size: 2rem;
-    // padding-top: 4rem 0;
+    
   }
   .main-content__list{
   border-bottom: 3px solid black;
@@ -65,7 +67,7 @@
       
         cursor:pointer;
         border-bottom: 3px solid #FA7F08;
-        // padding-bottom: 0.5em;
+     
       }
 
       .main__content1{

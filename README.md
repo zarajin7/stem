@@ -7,9 +7,9 @@ Stem is a new and uprising website  about a science based curriculum for both ki
 ## screenshots
 This is how the website looks like
 - Hompage
-  !{link}()
-
-
+  !{link}(![alt text](<images/Screenshot from 2024-02-23 09-02-58.png>))
+- footer page
+! {link}(![alt text](<images/Screenshot from 2024-02-23 09-03-14.png>))
 
 
   ## technologies used

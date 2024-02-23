@@ -3,15 +3,18 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 2em;
 }
 
 .navigation ul {
   display: flex;
   gap: 3em;
+  padding: 2em;
 }
 
 .navigation ul li {
   list-style-type: none;
+  padding: 1em;
 }
 
 .navigation ul li:hover {
@@ -19,8 +22,11 @@ ali
   background-color: #9ef8ee;
 
   background-color: #9EF8EE;
+ ali
   padding: 1rem;
  development
+
+gh-pages
   color: aliceblue;
   cursor: pointer;
   border-radius: 20px;
@@ -760,6 +766,7 @@ ali
   color: #F24405;
   cursor: pointer;
   border-bottom: 3px solid #FA7F08;
+ ali
 }
 
 .main__content1 {
@@ -769,4 +776,149 @@ ali
 }
 .main__content1 img {
   display: flex;
+
+  padding-bottom: 0.5em;
+}
+
+.about__us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.about__us button {
+  border: solid black;
+  border-radius: 10px;
+  margin-top: 2em;
+  background-color: aqua;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 4em;
+}
+
+.footer {
+  background-color: hsl(185, 75%, 39%);
+  height: 80%;
+}
+
+.quick__link ul :hover {
+  color: #e85d04;
+  cursor: pointer;
+}
+
+.footer h3 {
+  color: black;
+}
+
+.quick__link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 4rem;
+  padding-top: 1rem;
+}
+
+.quick__link ul li {
+  list-style-type: none;
+}
+
+.footer__content input {
+  padding: 2em 3em;
+  border: solid black;
+  border-radius: 5px;
+  margin-top: 2rem;
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.footer__icons {
+  margin-top: 4rem;
+}
+
+.quick__section h3 {
+  align-items: center;
+}
+
+.simulation__introduction {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/back.jpg");
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+  color: #48bfe3;
+  font-size: 2em;
+  font-weight: 1.5em;
+}
+
+.nav__mobile {
+  display: none;
+}
+
+.simulation__subject {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 3em;
+  padding-bottom: 2em;
+}
+
+.simulation__content__profile {
+  margin-top: 2rem;
+  font-size: 1.5em;
+  font-weight: 2em;
+}
+
+.simulation__content__profile h2 {
+  color: #e85d04;
+  margin-bottom: 1em;
+}
+
+@media screen and (max-width: 840px) {
+  .nav__mobile {
+    display: inline-block;
+  }
+  .navigation ul li:not(:last-child) {
+    display: none;
+  }
+  h3 {
+    font-size: 1em;
+    text-align: center;
+    font-weight: 2em;
+    color: #48bfe3;
+  }
+  .simulation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .simulation__subject {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .simulation__introduction p {
+    width: 100%;
+  }
+ gh-pages
 }

@@ -6,13 +6,16 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 2em;
 }
 .navigation ul {
   display: flex;
   gap: 3em;
+  padding:2em;
 }
 .navigation ul li {
   list-style-type: none;
+  padding: 1em;
 }
 .navigation ul li:hover {
 ali
@@ -20,8 +23,11 @@ ali
   // padding: 1rem;
 
   background-color: #9EF8EE;
+ ali
   padding: 1rem;
  development
+
+ gh-pages
   color: aliceblue;
   cursor: pointer;
   border-radius: 20px;
